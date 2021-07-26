@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 28px;
+    color: grey;
+}
+
+h2 {
+    font-size: 24px;
+    color: honeydew;
+}
+
+footer {
+    background-color: #fff;
+}
